@@ -1,0 +1,10 @@
+def Fine_rules():
+    print("-----Fine rules imposed after the Due Date!!-----")
+    print("\n FINE RULES")
+    print("-" * 40)
+    print("1st Week  → ₹10/day")
+    print("2nd Week → ₹20/day")
+    print("3rd Week → ₹60/day")
+    print("4th Week → ₹240/day")
+    print("Pattern continues (multiplying)")
+    print("-" * 40)
